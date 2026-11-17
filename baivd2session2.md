@@ -68,20 +68,3 @@ Kết quả trả về PHẢI ở dạng mã JSON thuần túy (được đặt 
 
 ```
 
----
-
-##  HƯỚNG DẪN NỘP BÀI TRÊN GITHUB
-
-Để nộp bài tập này lên hệ thống của lớp, bạn hãy tạo một Repository trên GitHub với tên gọi tuân thủ cấu trúc chuẩn:
-
-* **Tên Repository:** `[TênLớp]_[MônHọc]_Session02_Ex05`
-*(Ví dụ: `CNTT1_NHAPMONCNTT_Session02_Ex05`)*
-
-**Cấu trúc tệp tin bên trong repository:**
-
-```text
-[TênLớp]_[MônHọc]_Session02_Ex05/
-├── README.md              # Nội dung báo cáo phân tích và prompt chi tiết ở trên
-└── solution-prompt.txt    # Tệp chứa nội dung Prompt Few-shot để tiện copy/test
-
-```
